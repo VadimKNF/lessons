@@ -1,5 +1,5 @@
-<p>Введите год</p>
-<form action="" method="GET">
+<p style="text-align:center;">Введите год</p>
+<form style="text-align:center;" action="" method="GET">
 	<input type="number" name="year" placeholder="введите год">
 	<input type="submit" value="проверить">
 </form>
