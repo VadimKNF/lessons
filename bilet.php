@@ -1,5 +1,5 @@
 <p>Введите номер билета</p>
-<form action="" method="GET">
+<form style="text-align:center;" action="" method="GET">
 	<input type="number" name="Билет" minlength="6" maxlength="6">
 	<input type="submit">
 </form>
