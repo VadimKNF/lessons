@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" type="text/css" href="style.css"></link>
+
+<script src="three.js"></script>
+</body>
+</html>
+
+<?php
+$x = mktime(00, 00, 00, 01, 01, 2019) - time();
+
+echo 'дней до Нового года: '. floor($x / 3600 / 24);
+?>
